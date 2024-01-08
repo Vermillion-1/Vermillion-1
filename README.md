@@ -1,3 +1,11 @@
+<div align="center">
+
+![Vermillion-1's GitHub Profile Header](assets/header.gif)
+Background GIF by [Ricardo Braga](https://www.artstation.com/ricardiobraga) on [artstation](www.artstation.com).
+
+</div>
+
+
 # 💫 About Me:
 🔭 I’m currently working on <br>     
    - Programming robots using ROS<br>
